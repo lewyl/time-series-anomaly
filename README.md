@@ -8,7 +8,7 @@ An ensemble of OPTICS models is used to detect anomalies in multi-dataset univar
 KDD Cup 2021 details can be found at
 https://compete.hexagon-ml.com/practice/competition/39/
 
-## Environment
+## Requirements
 - numpy
 - pandas
 - scikit-learn
